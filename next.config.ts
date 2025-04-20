@@ -8,9 +8,10 @@ const nextConfig: NextConfig = {
       {
         protocol: 'https',
         hostname: 'mmbiz.qpic.cn',
-        port: '',
-        pathname: '/sz_mmbiz_png/**',
-        search: '',
+      },
+      {
+        protocol: 'https',
+        hostname: 'file.simonwong.cn',
       },
     ],
   },
