@@ -9,8 +9,8 @@ alwaysApply: true
 
 # 技术栈
 
-- 框架：nextjs@15 & react@19
-- 样式：tailwindcss@4 
+- 框架：[nextjs@15](mdc:https:/context7.com/vercel/next.js/llms.txt?tokens=332924) & react@19
+- 样式：[tailwindcss@4](mdc:https:/context7.com/tailwindlabs/tailwindcss.com/llms.txt?tokens=244367)
 - markdown 文档处理：[Content Collections](mdc:https:/www.content-collections.dev/docs/quickstart/next)
 - 包管理：pnpm
 - 部署：Cloudeflare，使用 [open-next](mdc:https:/opennext.js.org/cloudflare) 进行兼容。
