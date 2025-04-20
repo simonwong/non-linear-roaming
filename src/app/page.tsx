@@ -21,15 +21,7 @@ export default function Home() {
           {sortedPosts.map((post) => (
             <ArticleCard
               key={post._meta.path}
-              article={{
-                id: post._meta.path,
-                title: post.title,
-                excerpt: post.summary,
-                date: post.date,
-                tags: post.tags || [],
-                coverImage: post.coverImage || "/images/default-cover.jpg",
-                isSticky: false,
-              }}
+              article={post}
             />
           ))}
         </div>

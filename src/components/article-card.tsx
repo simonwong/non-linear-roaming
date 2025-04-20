@@ -1,15 +1,15 @@
-import { Article } from "@/types/article";
+import { Post } from "content-collections";
 import Image from "next/image";
 import Link from "next/link";
 
 interface ArticleCardProps {
-  article: Article;
+  article: Post;
 }
 
 export function ArticleCard({ article }: ArticleCardProps) {
   return (
     <Link
-      href={`/posts/${article.id}`}
+      href={`/posts/${article._meta.path}`}
       className="group relative flex h-full flex-col overflow-hidden rounded-xl border bg-card transition-all duration-300 hover:border-foreground/20 hover:shadow-lg"
     >
       {article.coverImage && (
@@ -41,7 +41,7 @@ export function ArticleCard({ article }: ArticleCardProps) {
               {article.title}
             </h2>
             <p className="mt-2 line-clamp-3 text-sm text-muted-foreground sm:text-base">
-              {article.excerpt}
+              {article.summary}
             </p>
           </div>
         </div>
