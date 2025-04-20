@@ -3,7 +3,7 @@ title: "超实用！DeepSeek 提问模型 + 案例全指南，一次学会高效
 summary: "当我们向 AI 提问时，你是否也有这样的疑惑，为什么同样的问题，有人得到的回答质量更高？"
 date: '2025-04-06'
 tags: ['Prompts']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/ueaCdrjauIMsz9aaW3WWxes6DsElaibn5zZpRObEtiad1lp6BibaB5G7K2mCdqIot2cXgwhKGbicxJcRjicObufA8Wg/640"
+coverImage: "https://file.simonwong.cn/blog/202504/9ade63ba059c62b2a05d960e9b8befa6.jpeg"
 ---
 
 当我们向 AI 提问时，你是否也有这样的疑惑：为什么同样的问题，有人得到的回答质量更高？
@@ -11,7 +11,7 @@ coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/ueaCdrjauIMsz9aaW3WWxes6DsElaibn
 
 我们今天就来介绍 DeepSeek 提问框架图 中提到的五大提问模型。这些模型提供了结构化的提问模板，帮助我们把问题描述得更加清晰、有条理。从而让 AI 更好地理解需求，产出高质量的结果。下面这张图概括了这五种提问结构：
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/ueaCdrjauIMsz9aaW3WWxes6DsElaibn5zZpRObEtiad1lp6BibaB5G7K2mCdqIot2cXgwhKGbicxJcRjicObufA8Wg/640)
+![](https://file.simonwong.cn/blog/202504/9ade63ba059c62b2a05d960e9b8befa6.jpeg)
 
 ## R-T-F 模型：明确角色、任务和格式
 

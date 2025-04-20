@@ -3,7 +3,7 @@ title: "AI 前沿精选 #01 ：OpenAI 推出OpenAI o3 和 o4-mini"
 summary: "OpenAI o3 是一款跨多领域的强大模型，为编程、数学、科学及视觉推理任务树立了新标杆"
 date: '2025-04-18'
 tags: ['AI Weekly']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_png/ueaCdrjauINBBpraicXZglfAZ7yRnEQpic2J9yUVZ5z6YcznO4DiaiaIh34HYxQgg7EZctU8PSOWT1kmYaoBWPXEZw/640"
+coverImage: "https://file.simonwong.cn/blog/202504/0ae547b017aa1fb0ec9c4b8aa57bd2b0.png"
 ---
 
 大家好！很高兴宣布，我的全新周更栏目【AI 前沿精选】今天正式与大家见面了！

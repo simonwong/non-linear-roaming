@@ -3,7 +3,7 @@ title: "AI 前沿精选 #00： 智能体的五个级别"
 summary: "AI Agent 不仅能生成文本，还能做出决策、调用功能，甚至运行自主工作流。该图示阐释  AI Agent 能力的五个级别——从简单响应者到完全自主的智能体。"
 date: '2025-03-31'
 tags: ['AI Weekly']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_png/ueaCdrjauIMEYhd88QEYicn5OfuUOoWABQyYdgWxAjR3eRiaQv9fRzpxDW47HBGWHdWfjkmqpyj3eRXG53wYkGtQ/640"
+coverImage: "https://file.simonwong.cn/blog/202504/10b736a098691e0a805144ceb17dc480.png"
 ---
 
 ## AI 智能体的五个级别
@@ -12,7 +12,7 @@ AI Agent 不仅能生成文本，还能做出决策、调用功能，甚至运�
 
 ### 一级：Basic responder
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88a26a48-f28b-4b84-99fe-cf549b66fbf2_846x644.gif)
+![](https://file.simonwong.cn/blog/202504/496527dc3e1740f4004dfb6c4b9ffe36.gif)
 
 - 人类主导整个流程。
 
@@ -20,7 +20,7 @@ AI Agent 不仅能生成文本，还能做出决策、调用功能，甚至运�
 
 ### 二级：Router pattern
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F032380f5-4d1c-46a8-b04c-f68de25ea860_846x652.gif)
+![](https://file.simonwong.cn/blog/202504/a549f4c7ab7abb767b33fd8eb4a64ada.gif)
 
 - 人类定义流程中存在的路径/功能。
 
@@ -28,7 +28,7 @@ AI Agent 不仅能生成文本，还能做出决策、调用功能，甚至运�
 
 ### 三级：Tool calling
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bbbd234-891f-4b82-a366-8e3b4a74e571_846x652.gif)
+![](https://file.simonwong.cn/blog/202504/f8ef4c24f3af5893af0d3627eea395d7.gif)
 
 - 人类定义了一组工具供大语言模型（LLM）调用以完成任务。
 
@@ -36,7 +36,7 @@ AI Agent 不仅能生成文本，还能做出决策、调用功能，甚至运�
 
 ### 四级：Multi-agent pattern
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0df3aa45-879f-48e3-9ab2-ee8bb617c9a9_846x618.gif)
+![](https://file.simonwong.cn/blog/202504/9b78521dcda3eba997760a93a77e6006.gif)
 
 管理者 Agent 负责协调多个子 Agent ，并通过迭代方式决定后续步骤。
 
@@ -46,7 +46,7 @@ AI Agent 不仅能生成文本，还能做出决策、调用功能，甚至运�
 
 ### 五级：Autonomous pattern
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd233a36e-e3e9-463d-8b4c-abf09c64d20d_846x618.gif)
+![](https://file.simonwong.cn/blog/202504/40a06ea1344677a32948b1682bdd7cdc.gif)
 
 *内容和图片来自：Daily Dose of Data Science*
 

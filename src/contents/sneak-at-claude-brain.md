@@ -3,7 +3,7 @@ title: "偷看 Claude 的“大脑“：AI是怎么想问题的？"
 summary: "你有没有好奇过，像 Claude 这样聪明的 AI，它“脑袋”里到底是怎么想的？它们不是我们一行行代码写出来的，更像是在海量数据里自己“悟”出了一套解决问题的方法。但这套方法具体是啥，我们也不全清楚。"
 date: '2025-04-01'
 tags: ['Deep AI']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_png/ueaCdrjauIMyKkERkqYNh91caWjPXHRiaUmXgibOKUZaGzKJYwyRGjM8UIrRSaiaqXmK1OdHL4J1PNKE02KrZYdYg/640"
+coverImage: "https://file.simonwong.cn/blog/202504/9c1540a3f3697eb564525c5c9a61b586.png"
 ---
 
 你有没有好奇过，像 Claude 这样聪明的 AI，它“脑袋”里到底是怎么想的？它们不是我们一行行代码写出来的，更像是在海量数据里自己“悟”出了一套解决问题的方法。但这套方法具体是啥，我们也不全清楚。

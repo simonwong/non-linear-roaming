@@ -3,7 +3,7 @@ title: "Cursor 现在可以定制适合你工作流程的自定义模式"
 summary: "自定义模式允许你根据工作流程需求，组合 Tools 和 propmts  来创建新模式。这些模式是对内置的 Agent 和 Ask 模式的补充。"
 date: '2025-04-03'
 tags: ['Cursor']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_jpg/ueaCdrjauIMRyNRNnoynFiaVibIoBzkOLzrHwVIeQTicx5pBCtSSXYwSSGwUONeBPGicE1kTFcibrcEsCNcbnezoXgw/0"
+coverImage: "https://file.simonwong.cn/blog/202504/307df232559963ff484fb628b4574a03.png"
 ---
 
 自定义模式允许你根据工作流程需求，组合 Tools 和 propmts  来创建新模式。这些模式是对内置的 Agent 和 Ask 模式的补充。

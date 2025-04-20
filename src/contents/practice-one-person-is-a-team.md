@@ -3,7 +3,7 @@ title: "【实践】一个人就是一个团队-Cursor AI 半自动开发 vibe c
 summary: "这是一份个人利用 AI 开发应用的实践分享，利用 AI 扮演不同的团队角色，一个人完成一个项目。"
 date: '2025-04-12'
 tags: ['Practice', 'Cursor']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_png/ueaCdrjauIPqXBWKssMLa0y9lCicgfH0QljRYE8bVV7fBHDutZowYGUHPIm6PEp2OvQ9plPtmzv89iaT00z4WIZQ/640"
+coverImage: "https://file.simonwong.cn/blog/202504/d32609f28db94d346f53f58310d0207c.png"
 ---
 
 这是一份个人利用 AI 开发应用的实践分享，利用 AI 扮演不同的团队角色，一个人完成一个项目。

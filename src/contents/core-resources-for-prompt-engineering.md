@@ -3,7 +3,7 @@ title: "建议收藏！提示工程核心资源整理：实用提示词库 + 进
 summary: "在与 AI 高效协作的时代，掌握提示工程（Prompt Engineering）至关重要。不论是你日常与 AI 进行协作，还是开发 Agent、MCP，都需要使用精准高效的提示词让 AI 为你工作。"
 date: '2025-04-15'
 tags: ['Prompts']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_png/ueaCdrjauIOzicpFD4697on3F9ds7rgqHqib7ceCg0sYsNKXI6hTicmCorLTozcv1mic1OruYOydBKBhxj3vAFdjjA/640"
+coverImage: "https://file.simonwong.cn/blog/202504/b7cb97ee2f43f0af745df6ce42dafe01.png"
 ---
 
 在与 AI 高效协作的时代，掌握提示工程（Prompt Engineering）至关重要。不论是你日常与 AI 进行协作，还是开发 Agent、MCP，都需要使用精准高效的提示词让 AI 为你工作。

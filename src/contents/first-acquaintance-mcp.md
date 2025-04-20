@@ -3,7 +3,7 @@ title: "初识 MCP：连接 AI 的标准协议"
 summary: "MCP，是一种大模型上下文协议，旨在标准化应用程序向大型语言模型（LLMs）提供上下文信息的方式。"
 date: '2025-03-30'
 tags: ['MCP']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_png/ueaCdrjauIPNicFSFbAj9y9S0mM6micOzmgUec7eYAkVWrVZLoFj7lDJjz6AryI4oag6lgEnxk6t0MgBx8m59MYA/640"
+coverImage: "https://file.simonwong.cn/blog/202504/3eac3f4868af90e248be1599c8555469.png"
 ---
 
 [Model Context Protocol](https://modelcontextprotocol.io/) 简称 MCP，是一种大模型上下文协议，旨在标准化应用程序向大型语言模型（LLMs）提供上下文信息的方式。

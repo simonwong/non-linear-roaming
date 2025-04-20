@@ -3,9 +3,8 @@ title: "谷歌连续放出重磅大招：Agent2Agent 协议、Agent Development 
 summary: "Firebase Studio、Agent2Agent、Agent Development Kit、Vertex AI"
 date: '2025-04-10'
 tags: ['Google']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_png/ueaCdrjauIN6mk17rib5Cqh52j5QkxzIR3pnnE3iaTzXx0nPyuxI6hQd02d8dUOvvMlDP6AoIK2D7rkC7ViaSnZqQ/640"
+coverImage: "https://file.simonwong.cn/blog/202504/f99635953e60a5382899ad1ce53227ba.png"
 ---
-
 
 谷歌在 Google Cloud Next 2025 连续放出重磅大招：
 

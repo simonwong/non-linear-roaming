@@ -3,7 +3,7 @@ title: "7 个实用 MCP 工具，用对了能省下无数工时"
 summary: "下面介绍 7 个实用的 MCP 工具及其核心特点和适用场景"
 date: '2025-04-08'
 tags: ['MCP']
-coverImage: "https://mmbiz.qpic.cn/sz_mmbiz_png/ueaCdrjauIMcSpeicmUfIqUHX7RzGgSMvJGPibT2Yz8UZ35DluH07v1Fzgd6Jrc3ApsaRyuKfC6oOOFYsuyiaYJicw/640"
+coverImage: "https://file.simonwong.cn/blog/202504/4bada900ff1e50fe5ce564c4dab721bf.png"
 ---
 
 不了解 MCP 的伙伴推荐看 [./first-acquaintance-mcp.md]
