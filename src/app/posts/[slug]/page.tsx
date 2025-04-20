@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { Layout } from "@/components/layout";
 import { format } from "date-fns";
 import { zhCN } from "date-fns/locale";
+import { AdSense } from "@/components/adsense";
 
 interface PostPageProps {
   params: {
@@ -53,6 +54,11 @@ export default async function PostPage({ params }: PostPageProps) {
             className="prose-headings:font-semibold prose-headings:tracking-tight prose-lead:text-muted-foreground prose-a:underline hover:prose-a:text-primary"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
+
+          {/* 文章底部广告 */}
+          <div className="my-6">
+            <AdSense slot="article-bottom-ad" />
+          </div>
         </div>
       </article>
     </Layout>
