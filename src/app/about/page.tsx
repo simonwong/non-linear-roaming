@@ -1,9 +1,53 @@
 import { Layout } from "@/components/layout";
 import Image from "next/image";
+import { Metadata } from "next";
+import Script from "next/script";
+
+export const metadata: Metadata = {
+  title: "关于 Simon Wong | 全栈工程师与AI探索者",
+  description: "了解Simon Wong的个人简介、专业背景和联系方式。全栈工程师，热衷于探索AI前沿技术和知识管理方法。",
+  keywords: ["Simon Wong", "全栈工程师", "AI探索者", "个人简介", "联系方式"],
+  alternates: {
+    canonical: "https://simonwong.blog/about",
+  },
+  openGraph: {
+    type: "profile",
+    title: "关于 Simon Wong | 全栈工程师与AI探索者",
+    description: "了解Simon Wong的个人简介、专业背景和联系方式。全栈工程师，热衷于探索AI前沿技术和知识管理方法。",
+    url: "https://simonwong.blog/about",
+    firstName: "Simon",
+    lastName: "Wong",
+  },
+  twitter: {
+    card: "summary",
+    title: "关于 Simon Wong | 全栈工程师与AI探索者",
+    description: "了解Simon Wong的个人简介、专业背景和联系方式。全栈工程师，热衷于探索AI前沿技术和知识管理方法。",
+  },
+};
 
 export default function AboutPage() {
+  // 构建个人资料的结构化数据
+  const personSchema = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Simon Wong",
+    "jobTitle": "全栈工程师 / AI 探索者",
+    "description": "热衷于探索前沿技术的全栈工程师，对AI技术充满热情，关注AI如何改变工作方式和学习方式。",
+    "url": "https://simonwong.blog",
+    "sameAs": [
+      "https://github.com/simonwong",
+      "https://x.com/wsj_simonwong",
+      "https://www.zhihu.com/people/wsj-simon"
+    ]
+  };
+
   return (
     <Layout>
+      <Script
+        id="person-schema"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(personSchema) }}
+      />
       <div className="container mx-auto max-w-3xl px-4 py-16">
         <div className="space-y-12">
           {/* 个人简介部分 */}

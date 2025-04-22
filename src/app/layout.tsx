@@ -8,7 +8,31 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Simon Wong 的非线性漫游",
-  description: "探索 AI 前沿，分享深度解读",
+  description: "探索 AI 前沿，分享深度解读与思考，关注知识管理和学习方法的最新思考",
+  keywords: ["AI", "人工智能", "知识管理", "学习方法", "技术前沿", "Simon Wong"],
+  authors: [{ name: "Simon Wong" }],
+  creator: "Simon Wong",
+  publisher: "Simon Wong",
+  robots: "index, follow",
+  alternates: {
+    canonical: "https://simonwong.blog",
+  },
+  openGraph: {
+    type: "website",
+    locale: "zh_CN",
+    url: "https://simonwong.blog",
+    title: "Simon Wong 的非线性漫游",
+    description: "探索 AI 前沿，分享深度解读与思考，关注知识管理和学习方法的最新思考",
+    siteName: "Simon Wong 的非线性漫游",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Simon Wong 的非线性漫游",
+    description: "探索 AI 前沿，分享深度解读与思考，关注知识管理和学习方法的最新思考",
+    creator: "@SimonWong",
+  },
+  viewport: "width=device-width, initial-scale=1",
+  themeColor: [{ media: "(prefers-color-scheme: light)", color: "white" }, { media: "(prefers-color-scheme: dark)", color: "black" }],
 };
 
 export default function RootLayout({
@@ -17,7 +41,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="zh" suppressHydrationWarning>
+    <html lang="zh-CN" suppressHydrationWarning>
       <head>
         <Script
           async

@@ -1,5 +1,12 @@
-import Link from "next/link";
 import { Layout } from "@/components/layout";
+import Link from "next/link";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "页面未找到 | Simon Wong 的非线性漫游",
+  description: "抱歉，您访问的页面不存在。请返回首页继续浏览。",
+  robots: "noindex, follow",
+};
 
 export default function NotFound() {
   return (
@@ -16,4 +23,4 @@ export default function NotFound() {
       </div>
     </Layout>
   );
-} 
+}
