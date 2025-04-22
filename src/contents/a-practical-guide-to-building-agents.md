@@ -1,5 +1,5 @@
 ---
-title: "精度 OpenAI 指南：构建 Agent 的最佳实践"
+title: "精读 OpenAI 指南：构建 Agent 的最佳实践"
 summary: "大型语言模型（LLM）现在越来越擅长处理复杂、多步骤的任务了。因为 LLM 在推理、多模态能力和工具使用上的进步，诞生了一类新的由 LLM 驱动的系统，叫做 Agents。"
 date: '2025-04-21'
 tags: ['Agent']
