@@ -1,5 +1,5 @@
 ---
-title: "AI 前沿精选 #01 ：OpenAI 推出OpenAI o3 和 o4-mini"
+title: "AI 前沿精选 #01: OpenAI 推出OpenAI o3 和 o4-mini"
 summary: "OpenAI o3 是一款跨多领域的强大模型，为编程、数学、科学及视觉推理任务树立了新标杆"
 date: '2025-04-18'
 tags: ['AI Weekly']
